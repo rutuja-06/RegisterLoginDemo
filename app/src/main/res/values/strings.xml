@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegisterLoginDemo</string>
+    <string name="don_t_have_an_account_nregister_here">Don\'t have an Account?\nRegister here.</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="already_registered_nlogin_here">Already Registered?\nLogin here.</string>
+</resources>
